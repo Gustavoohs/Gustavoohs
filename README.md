@@ -8,6 +8,7 @@
 - 👨🏻‍💻 Programmer
 - 🛰 PhD student under the Geoprocessing and Remote Sensing research line
 - ⚙ I'm working on SAR image classification with artificial intelligence
+- 🤩 Fascinated by Geoprocessing and Remote Sensing
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gus-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
