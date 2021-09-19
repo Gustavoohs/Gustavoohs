@@ -22,7 +22,7 @@
 ##
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gustavoohs&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="177" src="https://github-readme-stats.vercel.app/api?username=Gustavoohs&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoohs&layout=compact&langs_count=16&theme=light"/>
 </div>
  
