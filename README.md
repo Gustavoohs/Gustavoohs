@@ -1,16 +1,33 @@
-### Hi there 👋
+<div>
+  <img align="right" alt="Gus-gif" height="120" width="150" src="https://tenor.com/view/goku-sleepy-sleeping-dbz-gif-9473490.gif">
+</div>
 
-<!--
-**Gustavoohs/Gustavoohs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, i'm Gustavo ferreira 👨🏻
 
-Here are some ideas to get you started:
+- 🌍 Geographer
+- 👨🏻‍💻 Programmer
+- 🛰 PhD student under the Geoprocessing and Remote Sensing research line
+- ⚙ I'm working on SAR image classification with artificial intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gus-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gus-Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Gus-R" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Gus-Julia" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
+  <img align="center" alt="Gus-Postgre" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Gus-Qgis" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
+</div>
+
+##
+
+<div>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gustavoohs&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoohs&layout=compact&langs_count=16&theme=light"/>
+</div>
+ 
+<div>
+  <a href="https://www.instagram.com/gustavomassay" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-ferreira-221510159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gustavoohs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+</div>
