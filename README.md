@@ -2,7 +2,7 @@
   <img align="right" alt="Gus-gif" height="120" width="150" src="https://tenor.com/view/goku-sleepy-sleeping-dbz-gif-9473490.gif">
 </div>
 
-### Hello, i'm Gustavo ferreira 👨🏻
+### Hello, i'm Gustavo Ferreira 👨🏻
 
 - 🌍 Geographer
 - 👨🏻‍💻 Programmer
