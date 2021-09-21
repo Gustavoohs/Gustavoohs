@@ -1,5 +1,5 @@
 <div>
-  <img align="right" alt="Gus-gif" height="120" width="150" src="https://tenor.com/view/goku-sleepy-sleeping-dbz-gif-9473490.gif">
+  <img align="right" alt="Gus-gif" height="120" width="150" src="https://tenor.com/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647.gif">
 </div>
 
 ### Hello, i'm Gustavo Ferreira 👨🏻
